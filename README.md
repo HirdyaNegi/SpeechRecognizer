@@ -2,12 +2,12 @@
 Using the Google Speech API to make a speech recognizer
 
 This program uses Python 2.7 and homebrew
-
+------------------------------
 Libraries needed :            
  1. portaudio                 
  2. pyaudio                   
  3. SpeechRecognition
-
+------------------------------
 To install brew
 
 open the terminal :--> run the following command 
