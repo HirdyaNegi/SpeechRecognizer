@@ -1,19 +1,23 @@
 # SpeechRecognizer
 Using the Google Speech API to make a speech recognizer
 
-This program uses # Python 2.7 and homebrew
+This program uses Python 2.7 and homebrew
 -------------------------------------------
 -           Libraries needed :            -
 -            1. portaudio                 -
 -            2. pyaudio                   -
 -            3. SpeechRecognition         -
 -------------------------------------------
+Libraries needed :            
+ 1. portaudio                 
+ 2. pyaudio                   
+ 3. SpeechRecognition
 
 To install brew
 
-open the terminal :--> run command within the []
+open the terminal :--> run the following command 
 
-# [ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" ]
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
 
 Once you have homebrew (and the Python installation of your choice) open up a terminal and run:
 
